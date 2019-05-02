@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PersonList>
+  <Person>
+    <Name>Sonu</Name>
+    <Age>25</Age>
+    <Gender>Male</Gender>
+    <PostalCode>99999</PostalCode>
+    <City>Thane</City>
+  </Person>
+  <Person>
+    <Name>vijay</Name>
+    <Age>23</Age>
+    <Gender>Male</Gender>
+    <PostalCode>121</PostalCode>
+    <City>mumbai</City>
+  </Person>
+</PersonList>
