@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<employee>
+  <emp id="1">
+    <EMPNO>101</EMPNO>
+    <ENAME>CMYA</ENAME>
+    <SAL>10000</SAL>
+    <DNAME>IT</DNAME>
+    <DEPTNO>201</DEPTNO>
+  </emp>
+  <emp id="3">
+    <EMPNO>102</EMPNO>
+    <ENAME>ABC</ENAME>
+    <SAL>200000</SAL>
+    <DNAME>ACCOUNTS</DNAME>
+    <DEPTNO>202</DEPTNO>
+  </emp>
+  <emp id="2">
+    <EMPNO>103</EMPNO>
+    <ENAME>PQR</ENAME>
+    <SAL>15000</SAL>
+    <DNAME>MARKETING</DNAME>
+    <DEPTNO>203</DEPTNO>
+  </emp>
+  <emp id="4">
+    <EMPNO>104</EMPNO>
+    <ENAME>XYZ</ENAME>
+    <SAL>18000</SAL>
+    <DNAME>INSURANCE</DNAME>
+    <DEPTNO>204</DEPTNO>
+  </emp>
+</employee>
